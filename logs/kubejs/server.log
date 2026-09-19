@@ -1,0 +1,414 @@
+[20:16:19] [INIT] KubeJS 2001.6.5-build.24; MC 2001 forge
+[20:16:19] [INIT] Loaded plugins:
+[20:16:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:16:19] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[20:16:19] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[20:16:19] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[20:16:19] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[20:16:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[20:16:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[20:16:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[20:16:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[20:16:19] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[20:16:19] [INIT] - dev.aika.taczjs.forge.TaCZJSPlugin
+[20:16:19] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[20:16:19] [INIT] - com.rubenverg.moldraw.kubejs.MolDrawKJSPlugin
+[20:16:19] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[20:16:19] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
+[20:16:19] [INIT] - electrolyte.greate.compat.kubejs.KubeJSGreatePlugin
+[20:16:19] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[20:16:19] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[20:16:19] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[20:16:19] [INIT] - dev.thomas.diggerhelmet.integration.kubejs.DiggerHelmetKubeJSPlugin
+[20:16:19] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[20:16:19] [INIT] - com.gtceuterminal.integration.kjs.TerminalKubeJSPlugin
+[20:16:19] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[20:16:19] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[20:16:19] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
+[20:16:19] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[20:16:26] [INIT] KubeJS TFC configuration:
+[20:16:26] [INIT] - Debug mode enabled: false
+[20:16:26] [INIT] - Self tests console insertion enabled: true
+[20:16:26] [INIT] - Self tests warnings deduplicated: true
+[20:16:26] [INFO] Loaded script server_scripts:tfg/natural_blocks/loot.stones.js in 0.004 s
+[20:16:26] [INFO] Loaded script server_scripts:tfg/ores_and_materials/loot.ores.js in 0.003 s
+[20:16:26] [INFO] Loaded script server_scripts:tfg/utility.recipes.js in 0.011 s
+[20:16:26] [INFO] Loaded script server_scripts:main_server_script.js in 0.005 s
+[20:16:26] [INFO] Loaded script server_scripts:tfg/aquaponics/recipes.greenhouse.js in 0.02 s
+[20:16:26] [INFO] tfg/food/utility.food.js#6: Loaded Java class 'su.terrafirmagreg.core.common.tfgt.machine.trait.ISPOutputRecipeLogic'
+[20:16:26] [INFO] tfg/food/utility.food.js#7: Loaded Java class 'com.gregtechceu.gtceu.api.recipe.ingredient.SizedIngredient'
+[20:16:26] [INFO] Loaded script server_scripts:tfg/food/utility.food.js in 0.043 s
+[20:16:26] [INFO] Loaded script server_scripts:advancedperipherals/recipes.js in 0.003 s
+[20:16:26] [INFO] Loaded script server_scripts:ad_astra/data.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:ad_astra/loot.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:ad_astra/recipes.js in 0.005 s
+[20:16:26] [INFO] Loaded script server_scripts:ad_astra/tags.js in 0.003 s
+[20:16:26] [INFO] Loaded script server_scripts:ae2/recipes.js in 0.013 s
+[20:16:26] [INFO] Loaded script server_scripts:ae2/tags.facades.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:ae2/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:ae2iec/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:ae2na/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:ae2wtlib/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:afc/data.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:afc/recipes.js in 0.004 s
+[20:16:26] [INFO] Loaded script server_scripts:afc/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:alekiships/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:arthropocolypse/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:arthropocolypse/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:asticor_carts/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:beneath/loot.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:beneath/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:beneath/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:blockrunner/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:buildinggadgets2/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:cccbridge/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:chalk/data.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:chalk/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:chimes/data.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:chimes/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:comforts/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:computer_craft/data.js in 0.007 s
+[20:16:26] [INFO] Loaded script server_scripts:computer_craft/recipes.js in 0.004 s
+[20:16:26] [INFO] Loaded script server_scripts:computer_craft/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:constructionwand/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:constructionwand/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:cosy_critters/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:crafting_station/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:create/recipes.js in 0.013 s
+[20:16:26] [INFO] Loaded script server_scripts:create/tags.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:createdeco/data.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:createdeco/recipes.js in 0.009 s
+[20:16:26] [INFO] Loaded script server_scripts:createdeco/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:create_additions/data.js in 0.001 s
+[20:16:26] [INFO] create_additions/events.js#4: Loaded Java class 'net.dries007.tfc.common.capabilities.food.FoodData'
+[20:16:26] [INFO] Loaded script server_scripts:create_additions/events.js in 0.011 s
+[20:16:26] [INFO] Loaded script server_scripts:create_additions/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:create_additions/tags.js in 0.003 s
+[20:16:26] [INFO] Loaded script server_scripts:create_connected/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:create_connected/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:create_copycats/recipes.js in 0.007 s
+[20:16:26] [INFO] Loaded script server_scripts:create_copycats/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:create_extra_gauges/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:create_fluidlogistics/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:create_fluidlogistics/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:create_horse_power/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:create_hypertube/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:create_picky_wheels/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:create_railways_navigator/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:create_sound_of_steam/recipes.js in 0.004 s
+[20:16:26] [INFO] Loaded script server_scripts:create_steam_powered/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:create_steam_powered/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:create_stock_bridge/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:create_stock_bridge/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:deafission/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:diggerhelmet/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:diggerhelmet/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:domum_ornamentum/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:domum_ornamentum/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:endermanoverhaul/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:endermanoverhaul/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:etched/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:every_compat/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:every_compat/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:exposure/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:exposure/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:extended_ae2/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:firmaciv/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:firmaciv/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:firmalife/data.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:firmalife/recipes.js in 0.007 s
+[20:16:26] [INFO] Loaded script server_scripts:firmalife/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:fowl_play/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:framed_blocks/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:framed_blocks/tags.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:ftb_quests/CustomQuests.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:ftb_quests/filters.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:ftb_quests/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:ftb_quests/tags.js in 0.001 s
+[20:16:26] [INFO] grapplemod/recipes.js#48: Loaded Java class 'com.yyon.grapplinghook.utils.GrappleCustomization'
+[20:16:26] [INFO] Loaded script server_scripts:grapplemod/recipes.js in 0.02 s
+[20:16:26] [INFO] Loaded script server_scripts:greate/recipes.js in 0.005 s
+[20:16:26] [INFO] Loaded script server_scripts:greate/recipes.recycling.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:greate/recipes.removes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:greate/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:gregtech/constants.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:gregtech/data.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:gregtech/recipes.js in 0.003 s
+[20:16:26] [INFO] Loaded script server_scripts:gregtech/recipes.machines.js in 0.004 s
+[20:16:26] [INFO] Loaded script server_scripts:gregtech/recipes.recycling.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:gregtech/recipes.removes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:gregtech/tags.js in 0.002 s
+[20:16:26] [INFO] gregtech/utility.js#4: Loaded Java class 'com.google.gson.JsonObject'
+[20:16:26] [INFO] gregtech/utility.js#5: Loaded Java class 'com.google.gson.JsonArray'
+[20:16:26] [INFO] gregtech/utility.js#6: Loaded Java class 'com.google.gson.JsonParser'
+[20:16:26] [INFO] gregtech/utility.js#7: Loaded Java class 'com.google.gson.JsonElement'
+[20:16:26] [INFO] Loaded script server_scripts:gregtech/utility.js in 0.008 s
+[20:16:26] [INFO] Loaded script server_scripts:gtceu_terminal/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:gtmoderntuilities/recipes.js in 0.002 s
+[20:16:26] [INFO] Loaded script server_scripts:hangglider/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:immersive_aircraft/data.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:immersive_aircraft/recipes.js in 0.004 s
+[20:16:26] [INFO] Loaded script server_scripts:jellies/recipes.js in 0.001 s
+[20:16:26] [INFO] Loaded script server_scripts:jellies/tags.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:lootr/loot.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:macaws_for_tfc/recipes.js in 0.0 s
+[20:16:26] [INFO] Loaded script server_scripts:macaws_for_tfc/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:measurements/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:mega_cells/recipes.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:me_requester/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:minecraft/data.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:minecraft/events.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:minecraft/loot.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:minecraft/recipes.js in 0.004 s
+[20:16:27] [INFO] Loaded script server_scripts:minecraft/recipes.removes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:minecraft/tags.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:modern_markings/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:modern_markings/tags.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:more_red/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:mts/data.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:mts/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:mtsofficialpack/data.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:mtsofficialpack/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:mtsofficialpack/tags.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:primitive_creatures/loot.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:primitive_creatures/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:primitive_creatures/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:railways/data.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:railways/recipes.js in 0.004 s
+[20:16:27] [INFO] Loaded script server_scripts:railways/recipes.locometal.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:railways/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:realmrpg_skeletons/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:rnr/recipes.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:rnr/tags.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:sacksnstuff/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:sacksnstuff/tags.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:sandworm/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:simplylight/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:sophisticated_backpacks/data.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:sophisticated_backpacks/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:soulbound/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:soulbound/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:species/data.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:species/loot.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:species/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:species/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tacz/data.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tacz/index_modifiers.js in 0.004 s
+[20:16:27] [INFO] Loaded script server_scripts:tacz/recipes.ammo.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tacz/recipes.attach.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tacz/recipes.guns.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tacz/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tacz/recipes.misc.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tacz/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc/data.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc/events.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc/loot.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc/recipes.dyes.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc/recipes.metals.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc/recipes.removes.js in 0.001 s
+[20:16:27] [INFO] tfc/tags.js#4: Loaded Java class 'net.minecraftforge.registries.ForgeRegistries'
+[20:16:27] [INFO] Loaded script server_scripts:tfc/tags.js in 0.007 s
+[20:16:27] [INFO] Loaded script server_scripts:tfcambiental/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfcambiental/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfcbetterbf/data.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfcbetterbf/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfcchannelcasting/tags.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfchotornot/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfchotornot/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfclunchbox/data.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfclunchbox/recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfclunchbox/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfctextile/recipes.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc_grooming_station/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc_scraping/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfc_scraping/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/aquaponics/data.aquaponics.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/aquaponics/recipes.pisciculture.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/aquaponics/tags.aquaponics.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/beneath/recipes.beneath.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/beneath/tags.beneath.js in 0.004 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/data.js in 0.011 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/equipment/data.equipment.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/equipment/events.equipment.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/equipment/recipes.equipment.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/equipment/recipes.repair.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/equipment/tags.equipment.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/europa/tags.europa.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/events.interactions.js in 0.004 s
+[20:16:27] [INFO] tfg/events.js#67: Loaded Java class 'su.terrafirmagreg.core.config.TFGConfig'
+[20:16:27] [INFO] Loaded script server_scripts:tfg/events.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/data.crops.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/data.food.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/data.planters.js in 0.004 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.biomass.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.alcohols.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.baking_and_desserts.js in 0.022 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.basic_processing.js in 0.005 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.dairy.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.latin_american.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.meal_bags.js in 0.007 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.misc_meals.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.pizza_and_pasta.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.preservation.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.sandwiches.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.food.soups_and_sauces.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/recipes.refrigerators.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/food/tags.food.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/hv_rework/material.recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/json_tool.armor_trim.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/loot.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.bakelite.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.boules.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.budding.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.casings.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.circuits.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.circuit_board.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.coils.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.components.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.ender_pearls.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.etching.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.kinetic.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.molds.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.multiblocks.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.pastoral.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/recipes.steam_bloomery.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/machines/tags.facades.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/mars/data.fauna.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/mars/data.mars.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/mars/events.sandstorm.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/mars/recipes.iodine.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/mars/recipes.mars.js in 0.011 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/mars/recipes.ostrum.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/mars/tags.mars.js in 0.005 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/moon/data.moon.js in 0.005 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/moon/recipes.moon.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/moon/recipes.plants.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/moon/recipes.regolith.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/moon/tags.moon.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/mv_rework/material.recipes.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.alabaster.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.asphalt_road.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.collapse.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.concrete.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.dirt.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.rocks.js in 0.004 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.sand.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.stone_dusts.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.tfc_stone.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/recipes.wood.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/natural_blocks/tags.rocks.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.alloys.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.beneath_ore.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.bromine.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.chromium.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.garnet_sand.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.gem_slurries.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.materials.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.material_ores.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.material_tag_prefixes.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.material_tfc.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.material_tools.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.mo_si_b.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.pipes_hidden.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.quartzes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.tungsten.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/recipes.zirconium.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/ores_and_materials/tags.materials.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/overworld/data.fauna.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/overworld/tags.overworld.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/nuclear/recipes.components.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/nuclear/recipes.nuclear.js in 0.006 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/nuclear/recipes.smr_additives.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/nuclear/tags.nuclear.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/recipes.biodiesel.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/recipes.boiler.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/recipes.coal.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/recipes.early_gas.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/recipes.power_gen_balance.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/powergen/recipes.solar.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/fishing_nets/recipes.fishing_nets.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/medicine/events.medicine.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/medicine/recipes.medicine.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/medicine/tags.medicine.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.arrows.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.artisan_table.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.baskets.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.clay.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.cloth.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.compost.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.dyes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.glass.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.glue_and_chipboard.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.ice.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.knapping.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.leather.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.paper.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.rubber.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.supports.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.vases.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.wax.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/recipes.wood.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/primitive/tags.primitive.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/recipes.miscellaneous.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/recipes.temporary.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/space_general/recipes.insulation.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/space_general/recipes.railgun.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/space_general/recipes.rockets.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/space_general/recipes.space.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/space_general/recipes.space_suits.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/space_general/tags.railgun.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/space_general/tags.rockets.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/tags.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/tags.veins.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/venus/data.venus.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/venus/recipes.biochem.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/venus/recipes.venus.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/venus/tags.venus.js in 0.0 s
+[20:16:27] [INFO] tfg/worldgen/events.chunks.js#4: Loaded Java class 'net.minecraft.world.level.levelgen.Heightmap'
+[20:16:27] [INFO] tfg/worldgen/events.chunks.js#5: Loaded Java class 'net.dries007.tfc.world.chunkdata.ForestType'
+[20:16:27] [INFO] Loaded script server_scripts:tfg/worldgen/events.chunks.js in 0.176 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/worldgen/events.entities.js in 0.002 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/worldgen/events.forests.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/worldgen/select_climates.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:tfg/worldgen/tags.general_worldgen.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:toolbelt/recipes.js in 0.016 s
+[20:16:27] [INFO] Loaded script server_scripts:vintage_improvements/recipes.js in 0.003 s
+[20:16:27] [INFO] Loaded script server_scripts:vintage_improvements/tags.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:wan_ancient_beasts/data.js in 0.001 s
+[20:16:27] [INFO] Loaded script server_scripts:wan_ancient_beasts/loot.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:wan_ancient_beasts/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:wan_ancient_beasts/tags.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:water_flasks/data.js in 0.0 s
+[20:16:27] [INFO] Loaded script server_scripts:water_flasks/recipes.js in 0.0 s
+[20:16:27] [INFO] Loaded 341/341 KubeJS server scripts in 1.417 s with 0 errors and 0 warnings
+[20:16:28] [INFO] tfg/food/data.food.js#8: Loaded Java class 'net.dries007.tfc.common.capabilities.food.Nutrient'
+[20:16:28] [INFO] tfg/food/data.food.js#9: Loaded Java class 'su.terrafirmagreg.core.common.food.nutrient.INutrientExtension'
+[20:16:28] [INFO] tfg/food/data.planters.js#6: Loaded Java class 'net.dries007.tfc.common.blockentities.FarmlandBlockEntity'
+[20:16:28] [INFO] tfg/food/data.planters.js#7: Loaded Java class 'su.terrafirmagreg.core.common.data.PalmTrees'
+[20:16:28] [INFO] Scripts loaded
+[20:16:30] [INFO] tfc/tags.js#746: Loaded Java class 'com.gregtechceu.gtceu.api.fluids.FluidState'
+[20:16:30] [INFO] tfc/tags.js#747: Loaded Java class 'com.gregtechceu.gtceu.api.fluids.attribute.FluidAttributes'
+[20:16:30] [INFO] tfc/tags.js#749: Loaded Java class 'net.minecraftforge.fluids.FluidStack'
+[20:16:31] [INFO] Initializing recipe event...
+[20:16:37] [INFO] ad_astra/tags.js#41: [minecraft:block_entity_type] Found 1 tags, added 13 objects, removed 0 objects
+[20:16:37] [INFO] tfc/tags.js#759: [minecraft:worldgen/configured_feature] Found 8 tags, added 6 objects, removed 0 objects
+[20:16:37] [INFO] tfc/tags.js#791: [minecraft:entity_type] Found 136 tags, added 392 objects, removed 0 objects
+[20:16:37] [INFO] tfc/tags.js#795: [minecraft:worldgen/placed_feature] Found 494 tags, added 413 objects, removed 47 objects
+[20:16:37] [INFO] tfc/tags.js#839: [minecraft:worldgen/biome] Found 308 tags, added 651 objects, removed 58 objects
+[20:16:40] [INFO] tfc/tags.js#868: [minecraft:block] Found 2649 tags, added 13080 objects, removed 240 objects
+[20:16:44] [INFO] ad_astra/tags.js#48: [minecraft:fluid] Found 947 tags, added 6372 objects, removed 13 objects
+[20:16:44] [INFO] [minecraft:item] Found 9218 tags, added 17079 objects, removed 334 objects
+[20:16:52] [INFO] Processing recipes...
+[20:16:56] [INFO] Found 87204 recipes in 3.738 s
+[20:17:01] [INFO] tfg/ores_and_materials/recipes.materials.js#244: Loaded Java class 'electrolyte.greate.registry.GreateMaterials'
+[20:17:06] [INFO] tfg/natural_blocks/recipes.stone_dusts.js#9: Loaded Java class 'com.gregtechceu.gtceu.api.recipe.chance.logic.ChanceLogic'
+[20:17:07] [INFO] tfg/ores_and_materials/recipes.mo_si_b.js#5: Loaded Java class 'fi.dea.mc.deafission.common.data.recipe.HeatRecipeCapability'
+[20:17:07] [INFO] tfg/ores_and_materials/recipes.mo_si_b.js#6: Loaded Java class 'fi.dea.mc.deafission.common.data.recipe.HeatIngredient'
+[20:17:10] [INFO] Posted recipe events in 13.90 s
+[20:17:30] [INFO] Added 34293 recipes, removed 14536 recipes, modified 1071 recipes, with 0 failed recipes in 20.33 s
+[20:17:32] [INFO] tfg/mars/data.mars.js#5: Loaded Java class 'net.minecraft.core.registries.Registries'
+[20:17:32] [INFO] tfg/mars/data.mars.js#6: Loaded Java class 'net.minecraft.resources.ResourceKey'
+[20:17:43] [INFO] Server resource reload complete!
