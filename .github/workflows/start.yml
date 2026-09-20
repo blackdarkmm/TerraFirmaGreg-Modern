@@ -255,8 +255,8 @@ jobs:
         with:
           name: minecraft-crash-reports
           path: |
-            /home/runner/work/NightfallCraft_server/NightfallCraft_server/crash-reports/*.txt
-            /home/runner/work/NightfallCraft_server/NightfallCraft_server/logs/latest.log
+            /home/runner/work/TerraFirmaGreg-Modern/TerraFirmaGreg-Modern/crash-reports/*.txt
+            /home/runner/work/TerraFirmaGreg-Modern/TerraFirmaGreg-Modern/logs/latest.log
           if-no-files-found: ignore
           retention-days: 2
 
