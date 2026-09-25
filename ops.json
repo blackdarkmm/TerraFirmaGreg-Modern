@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "7fdd221e-8321-40d7-b02b-5467b7f1231a",
+    "name": "dark_front3102",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "647a0f86-65f9-4e4b-aea5-532aae9e3a1d",
+    "name": "maoQmaster",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1d0e1ed3-7bfb-49e2-bd72-6e443f8764f0",
+    "name": "FanAlex006",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
