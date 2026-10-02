@@ -57,7 +57,7 @@ jobs:
           echo "1. 檢查是否有分卷檔案..."
           if ls world.tar.zst.* 1>/dev/null 2>&1; then
             echo "找到備份檔案，開始串流解壓..."
-            ls -1 world.tar.zst.* | sort -V | xargs cat | unzstd | tar -xf -
+            cat world.tar.zst.00 world.tar.zst.01 | unzstd | tar -xf -
             
             echo "3. 檢查解壓結果..."
             if [ -d "world" ]; then
