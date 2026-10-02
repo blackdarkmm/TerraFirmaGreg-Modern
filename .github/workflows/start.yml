@@ -58,7 +58,7 @@ jobs:
           # 💡 請記得換成你目前這個 Workflow 的 yml 檔名（例如 main.yml）
           workflow: start.yml 
           name: mc-parts
-          workflow_conclusion: success
+          workflow_conclusion: ""
           path: ./
           # 如果沒找到，只警告不報錯
           if_no_artifact_found: warn
