@@ -1,0 +1,61 @@
+{
+	max_claim_chunks: 30010
+	max_force_load_chunks: 30002
+	last_login_time: 1790852954342L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: -26, z: -80, time: 1790336520523L }
+			{ x: 577, z: 561, time: 1790408418537L }
+			{ x: 578, z: 558, time: 1790418055063L }
+			{ x: -27, z: -80, time: 1790336520523L }
+			{ x: -24, z: -78, time: 1790574097766L }
+			{ x: 579, z: 560, time: 1790408418537L }
+			{ x: 579, z: 559, time: 1790408418537L }
+			{ x: -25, z: -80, time: 1790338705067L }
+			{ x: -28, z: -78, time: 1790338705067L }
+			{ x: -26, z: -79, time: 1790336520523L }
+			{ x: 577, z: 560, time: 1790408418537L }
+			{ x: -25, z: -81, time: 1790338705067L }
+			{ x: -27, z: -79, time: 1790336520523L }
+			{ x: -26, z: -78, time: 1790338705067L }
+			{ x: 579, z: 561, time: 1790408418537L }
+			{ x: -27, z: -81, time: 1790338705067L }
+			{ x: -24, z: -79, time: 1790574097766L }
+			{ x: -28, z: -81, time: 1790338707334L }
+			{ x: 577, z: 558, time: 1790418051026L }
+			{ x: -28, z: -79, time: 1790338705067L }
+			{ x: 578, z: 561, time: 1790408418537L }
+			{ x: -28, z: -80, time: 1790338705067L }
+			{ x: -25, z: -79, time: 1790338705067L }
+			{ x: 579, z: 558, time: 1790418055063L }
+			{ x: 577, z: 559, time: 1790408418537L }
+			{ x: -26, z: -81, time: 1790338705067L }
+			{ x: -25, z: -78, time: 1790338705067L }
+			{ x: 578, z: 560, time: 1790408418537L }
+			{ x: 578, z: 559, time: 1790408418537L }
+			{ x: -27, z: -78, time: 1790338705067L }
+		]
+	}
+	member_data: {
+		647a0f86-65f9-4e4b-aea5-532aae9e3a1d: {
+			max_claimed_chunks: 10000
+			offline_force_loader: 1b
+			max_force_loaded_chunks: 10000
+		}
+		1d0e1ed3-7bfb-49e2-bd72-6e443f8764f0: {
+			max_claimed_chunks: 10000
+			offline_force_loader: 1b
+			max_force_loaded_chunks: 10000
+		}
+		6b3df165-e069-4815-83c9-0610e24deed3: {
+			max_claimed_chunks: 10
+			offline_force_loader: 1b
+			max_force_loaded_chunks: 2
+		}
+		7fdd221e-8321-40d7-b02b-5467b7f1231a: {
+			max_claimed_chunks: 10000
+			offline_force_loader: 1b
+			max_force_loaded_chunks: 10000
+		}
+	}
+}
