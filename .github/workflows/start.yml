@@ -48,20 +48,7 @@ jobs:
           npm init -y
           npm install express
 
-      - name: 下載上一次成功執行的 Artifact (使用 Secrets、防卡關版)
-        uses: dawidd6/action-download-artifact@v8
-        # 💡 第一面防死金牌：下載若失敗也直接進下一步
-        continue-on-error: true
-        with:
-          # 💡 換回你指定的變數，權限最完整
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # 💡 請記得換成你目前這個 Workflow 的 yml 檔名（例如 main.yml）
-          workflow: start.yml 
-          name: mc-parts
-          workflow_conclusion: ""
-          path: ./
-          # 如果沒找到，只警告不報錯
-          if_no_artifact_found: warn
+
 
       - name: 終極空間優化：tar.zst 串流解壓 (支援多分卷、防卡關版)
         # 💡 第二面防死金牌：解壓噴錯或沒檔案也直接進下一步
